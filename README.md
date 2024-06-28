@@ -40,7 +40,7 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [dharmender.prof@gmail.com].
+If you have any questions or feedback, please reach out to us at dharmender.prof@gmail.com
 
 ---
 

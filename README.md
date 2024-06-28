@@ -19,13 +19,13 @@ Welcome to the Cipher Text Converter project! This application allows you to eas
 
 You can download the APK file for Android devices from the following link:
 
-[Download APK]([link-to-your-apk-file](https://drive.google.com/file/d/1yTtSLNoQoERXX5Q6ELhVeYPwRMjUoh4Y/view?usp=drive_link))
+link-to-your-apk-file](https://drive.google.com/file/d/1yTtSLNoQoERXX5Q6ELhVeYPwRMjUoh4Y/view?usp=drive_link
 
 ### Live Demo
 
 You can also visit the live version of the application hosted on TinyHost by clicking the link below:
 
-[Live Demo on TinyHost]([link-to-your-tinyhost-page](https://cipher-text.tiiny.site/))
+link-to-your-tinyhost-page](https://cipher-text.tiiny.site
 
 ## Usage
 
